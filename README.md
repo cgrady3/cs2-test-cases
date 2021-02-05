@@ -1,5 +1,5 @@
 # CS2 Test Cases
-This repository contains student-made test cases for Professor Szumlanski's programming assignments from his Spring CS2 course.
+This repository contains student-made test cases for Professor Szumlanski's programming assignments from his Spring 2021 Computer Science 2 course.
 
 To use these test cases:
 1. Clone this repo into a directory
