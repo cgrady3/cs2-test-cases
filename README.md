@@ -1,4 +1,4 @@
-# cs2-test-cases
+# CS2 Test Cases
 This repository contains student-made test cases for Professor Szumlanski's assignments from his CS2 course.
 
 To use these test cases:
