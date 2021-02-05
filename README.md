@@ -6,4 +6,10 @@ To use these test cases:
 2. Move/copy into the directory your solution source code, as well as the test case source files and sample output text files provided by Prof. Szumlanski, adhering to folder structure
 3. Follow the instructions in the assignment PDF(s) to test your solution against the cases
 
-Testing on Eustis isn't particularly advised, since some of the test cases may involve input files too large to upload on Eustis.
+To contribute test cases of your own:
+1. Fork this repo and clone the fork into a directory
+2. Place your own test case(s) and input/output file(s) into it, adhering to folder structure
+3. Commit and push those changes to make a pull request, making sure not to overwrite any files that were already there
+I'll review the pull request and let it go through if the files you upload don't contain any solution code or anything malicious.
+
+Testing any or all of these cases on Eustis isn't particularly advised, since some of the test cases might involve input files too large to upload on Eustis.
