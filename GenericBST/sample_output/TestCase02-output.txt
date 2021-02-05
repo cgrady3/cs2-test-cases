@@ -1,0 +1,20 @@
+
+-------------------------------------------
+GenericBST Type: Integer
+
+Insertion is working! This GenericBST has all the array's elements.
+In-order Traversal: 3 6 43 52 54 55 67 74 90 99
+Pre-order Traversal: 90 54 52 6 3 43 74 55 67 99
+Post-order Traversal: 3 43 6 52 67 55 74 54 99 90
+Deletion is working! This GenericBST no longer has the array's elements.
+
+
+-------------------------------------------
+GenericBST Type: Character
+
+Insertion is working! This GenericBST has all the array's elements.
+In-order Traversal: a d f v z
+Pre-order Traversal: a z f d v
+Post-order Traversal: d v f z a
+Deletion is working! This GenericBST no longer has the array's elements.
+
