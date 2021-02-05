@@ -1,4 +1,3 @@
-
 // ===========================
 // GenericBST: TestCase02.java
 // ===========================
@@ -7,7 +6,7 @@
 //
 // For detailed compilation and testing instructions, see the assignment PDF.
 //
-
+// Adapted from Prof. Szumlanski's own test case(s) by Casin#0994
 
 import java.io.*;
 import java.util.*;
