@@ -4,7 +4,7 @@ This repository contains student-made test cases for Professor Szumlanski's prog
 To use these test cases:
 1. Clone this repo into a directory
 2. Move/copy into the directory your solution source code, as well as the test case source files and sample output text files provided by Prof. Szumlanski, adhering to folder structure
-3. Follow the instructions laid out in the assignment PDF to test your solution against the cases.
+3. Follow the instructions laid out in the assignment PDF to test your solution against the cases, either with the test cases individually or with a modified test-all script.
 
 To contribute test cases of your own:
 1. Fork this repo and clone the fork into a directory
