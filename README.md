@@ -1,7 +1,7 @@
 # CS2 Test Cases
 This repository contains student-made test cases for Professor Szumlanski's programming assignments from his Spring 2021 Computer Science 2 course.
 
-It's strongly recommended that you create and share your own test cases on this repository!!! Doin so will not only help everyone else to make sure their submission is thorough, but also challenge you and help you grow by considering or coding up other cases. 
+It's strongly recommended that you create and share your own test cases on this repository!!! Doing so will not only help everyone else to make sure their submission is thorough, but also challenge you and help you grow by considering or coding up other cases. 
 
 To contribute test cases of your own:
 1. Fork this repo and clone the fork into a directory
