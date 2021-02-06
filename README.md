@@ -10,8 +10,9 @@ To contribute test cases of your own, you can either just ping layne#0695 in the
 5. You can either make a pull request yourself or I can, and I'll review your contribution and add it as long as the files you upload don't contain any solution code/hints or anything malicious.
 
 To use these test cases:
-1. Clone this repo into a directory
-2. Move/copy into the directory your solution source code, as well as the test case source files and sample output text files provided by Prof. Szumlanski, adhering to folder structure
-3. Follow the instructions laid out in the assignment PDF to test your solution against the cases, either with the test cases individually or with a modified test-all script.
+1. Read them first! You should try and understand what each one is doing/checking for before just haphazardly tossing your code at it and seeing if you pass.
+2. Clone this repo into a directory
+3. Move/copy into the directory your solution source code, as well as the test case source files and sample output text files provided by Prof. Szumlanski, adhering to folder structure
+4. Follow the instructions laid out in the assignment PDF to test your solution against the cases, either with the test cases individually or with a modified test-all script.
 
 Testing any or all of these cases on Eustis isn't particularly advised, since some of the test cases might involve input files too large to upload on Eustis.
