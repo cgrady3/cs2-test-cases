@@ -6,8 +6,8 @@ This repository contains student-made test cases for Professor Szumlanski's prog
 To contribute test cases of your own:
 1. Fork this repo and clone the fork into a directory
 2. Place your own test case(s) and input/output file(s) into it, adhering to folder structure
-3. Commit and push those changes to origin to make a pull request, making sure not to overwrite any files that were already there (if you are overwriting anything, let someone know why!)
-4. I'll review the pull request and let it go through as long as the files you upload don't contain any solution code/hints or anything malicious.
+3. Commit and push those changes to origin, making sure not to overwrite any files that were already there (if you are overwriting anything, let someone know why!)
+5. I'll review the new branch and merge it with master as long as the files you upload don't contain any solution code/hints or anything malicious.
 
 To use these test cases:
 1. Clone this repo into a directory
