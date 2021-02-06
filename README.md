@@ -6,7 +6,7 @@ This repository contains student-made test cases for Professor Szumlanski's prog
 To contribute test cases of your own, you can either just ping layne#0695 in the Discord, or:
 1. Fork this repo and clone the fork into a directory
 2. Place your own test case(s) and input/output file(s) into it, adhering to folder structure
-3. Commit and push those changes to your fork, making sure not to overwrite any files that were already there (if you are overwriting anything, let someone know why!)
+3. Commit and push those changes to your fork, making sure not to overwrite any files that were already there (if you are overwriting anything, say why!)
 5. You can either make a pull request yourself or I can, and I'll review your contribution and add it as long as the files you upload don't contain any solution code/hints or anything malicious.
 
 To use these test cases:
