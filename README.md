@@ -16,4 +16,6 @@ To use these test cases:
 3. Move/copy into the directory your solution source code, as well as the test case source files and sample output text files provided by Prof. Szumlanski, adhering to folder structure
 4. Follow the instructions laid out in the assignment PDF to test your solution against the cases, either with the test cases individually or with a modified test-all script.
 
-Testing any or all of these cases on Eustis isn't particularly advised, since some of the test cases might involve input files too large to upload on Eustis.
+Testing any or all of these cases on Eustis isn't particularly advised, since some of the test cases might involve input files too large to upload on Eustis.  
+
+*Note: each assignment's files will be removed a day or two after its on-time submission deadline passes.*
