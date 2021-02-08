@@ -100,6 +100,7 @@ public class TestCase03
 		// Generate data and insert it into GenericBST
 		for (int i = 0; i < numElements; i++)
 		{
+            // Generate a random "normal" character
 			char element = (char) (Math.random() * 95 + '!');
 			arrayCharacter[i] = element;
 			myCharacterTree.insert(element);

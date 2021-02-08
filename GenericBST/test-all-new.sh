@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a modified script used to include the student-made test cases in Dr. S's test-all script.
-# Run it the same you would the original script.
+# Run it the same way you would the original script.
 #
 # 99% of this is stolen from Szum's bash please don't murder me!
 # Sean Szumlanski 
